@@ -1,0 +1,55 @@
+# name=input("enter your name: ")
+# if name=="manoj":
+#     print("hi good morning manoj")
+# else: print("hi good moring", name)
+
+
+# 1)write a program to check the wheather person is eligible to vote or not : (accept the age from the user )
+
+# name=input("Enter you name: ")
+# age=eval(input("enter your current age: "))
+# print(type(name))
+# print(type(age))
+
+# if age <= 18:
+#     print(name, "your not egliable to voteing")
+# else:
+#     print(name,"your egliable for voteing")
+
+#2) write a program to check whather a number entered by user is even or odd 
+
+# value=eval(input("enter the Value: "))
+# if value%2==0:
+#     print("Enter number is EVEN")
+# else:
+#     print("Enter number is ODD")
+
+#3) write a program to check whether a number is divisible by 7 or not .
+
+# number=int(input("Enter the number: ") )
+# if number%7==0:
+#     print("The Number can be divided by 7")
+# else:
+#     print("The Number can not be divided by 7")
+
+
+#4) write a program to display "hello" if a number entered by user is a multiple of 5, otherwise print bye.
+
+# number=int(input("Enter the Number: "))
+# if number%5==0:
+#     print("HELLO")
+# else:
+#     print("BYE")
+
+# 5) 
+units=int(input("Enter the units: "))
+
+amt=0
+if units<=100:
+    amt=0
+if units>100 and units<200:
+    amt=(units-100)*5
+if units>200:
+    amt=500+(units-200)*10
+print("Amount to be paied is Rs:", amt)
+
