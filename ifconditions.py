@@ -42,14 +42,14 @@
 #     print("BYE")
 
 # 5) 
-units=int(input("Enter the units: "))
+# units=int(input("Enter the units: "))
 
-amt=0
-if units<=100:
-    amt=0
-if units>100 and units<200:
-    amt=(units-100)*5
-if units>200:
-    amt=500+(units-200)*10
-print("Amount to be paied is Rs:", amt)
+# amt=0
+# if units<=100:
+#     amt=0
+# if units>100 and units<200:
+#     amt=(units-100)*5
+# if units>200:
+#     amt=500+(units-200)*10
+# print("Amount to be paied is Rs:", amt)
 
