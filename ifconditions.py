@@ -67,3 +67,28 @@
 #     print("you fav brand is ", brand)
 # else:
 #     print("none of this ur fav brand...!")    
+
+
+# write a program  to find the biggest  of the given two numbwe in the commadn prompt
+
+
+# num1=eval(input("Enter the 1st number: "))
+# num2=eval(input("enter the 2nd number: "))  
+# if num1>num2:
+#     print("Biggest number is:", num1)   
+# else:
+#     print("Biggest number is :", num2)
+    
+ # write a program  to find the biggest  of the given 3 numbwe in the commadn prompt   
+    
+# num1=eval(input("Enter the 1st number: "))
+# num2=eval(input("enter the 2nd number: "))
+# num3=eval(input("enter the 3rd number: "))
+  
+# if num1>num2 and num1>num3:
+#     print("Biggest number is:", num1)   
+# elif num2>num3:
+#     print("Biggest number is:", num2)
+# else:
+#     print("Biggest number is :", num3)
+    
