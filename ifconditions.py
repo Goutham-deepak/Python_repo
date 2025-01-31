@@ -104,12 +104,20 @@
 
 
 #write a program to find the smallest number of the given 3 numbers 
-number1=eval(input("Enter the 1st number:"))
-number2=eval(input("Enter the 2nd number:"))
-number3=eval(input("Enter the 3rd number:"))
-if number1<number2 and number1<number3:
-    print("smallest number is:", number1)
-elif number2<number3:
-    print("smallest number is:", number2)
-else:
-    print("smallest number is:", number3)
+# number1=eval(input("Enter the 1st number:"))
+# number2=eval(input("Enter the 2nd number:"))
+# number3=eval(input("Enter the 3rd number:"))
+# if number1<number2 and number1<number3:
+#     print("smallest number is:", number1)
+# elif number2<number3:
+#     print("smallest number is:", number2)
+# else:
+#     print("smallest number is:", number3)
+
+# write a program to check the enterned number is even or odd
+
+# num=int(input("Enter the number:"))
+# if num%2==0:
+#     print("entered number is even",num)
+# else:
+#     print("entered number is odd", num)
