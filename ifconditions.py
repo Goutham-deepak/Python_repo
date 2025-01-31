@@ -53,3 +53,17 @@
 #     amt=500+(units-200)*10
 # print("Amount to be paied is Rs:", amt)
 
+# **  if-elif-elif -else
+
+# writing a code foe the confition 
+
+# brand = str(input("Enter your fav Brand: "))
+
+# if brand=="puma":
+#     print("your fav brand is ", brand)
+# elif brand =="reebook":
+#     print("your fav brand is ",brand)    
+# elif brand=="aadias":
+#     print("you fav brand is ", brand)
+# else:
+#     print("none of this ur fav brand...!")    
