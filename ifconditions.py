@@ -91,4 +91,25 @@
 #     print("Biggest number is:", num2)
 # else:
 #     print("Biggest number is :", num3)
-    
+
+
+#write a program to find the smallest number of the given 2 numbers 
+
+# n1=int(input("Enter the 1st number: "))
+# n2=int(input("Enter the 2nd number: "))
+# if n1<n2:
+#     print("smallest number is:",n1)
+# else:
+#     print("smalles number is:", n2)
+
+
+#write a program to find the smallest number of the given 3 numbers 
+number1=eval(input("Enter the 1st number:"))
+number2=eval(input("Enter the 2nd number:"))
+number3=eval(input("Enter the 3rd number:"))
+if number1<number2 and number1<number3:
+    print("smallest number is:", number1)
+elif number2<number3:
+    print("smallest number is:", number2)
+else:
+    print("smallest number is:", number3)
