@@ -121,3 +121,22 @@
 #     print("entered number is even",num)
 # else:
 #     print("entered number is odd", num)
+
+
+
+# write the program to check whether the number is in between  1 to 100 .
+
+# number = eval(input("Enter the number: "))
+# if 1<=number<=100:
+#     print("The enter number " ,number, "is b/w 1 and 100")
+# else:
+#    print("The entered number ", number, "in not in the range")
+   
+   
+   
+# write the program  to take the  single digit number from the keyboard  and print its value from englisg words.
+# from num2words import num2words
+# numb=eval(input("Enter the number "))
+# if numb:
+#     a=num2words(numb)
+#     print(a)    
