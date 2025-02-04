@@ -45,8 +45,31 @@
 # c) display number from 10 to 1 in descending order 
 
 
-for x in  range(20):
+# eg 4 
+#print the sum of the list 
+# list=eval(input("Enter the list: "))
+# sum=0
+# for x in list:
+#     sum =sum+x
+# print("the sum:",sum)
+
+
+
+# for x in range(101):
+#     print(x)
+
+
+
+
+#-----------------------WHILE LOOP----------------------------------------------------
+
+#eg 1  to print the number from 0 to 10 using only while loop
+
+x=0
+while x<=10:
+    print(x)
+    x=x+1
+
     
-    a=int(x%2!=0)
-    print(a)
-    
+
+
