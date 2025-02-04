@@ -65,11 +65,28 @@
 
 #eg 1  to print the number from 0 to 10 using only while loop
 
-x=0
-while x<=10:
-    print(x)
-    x=x+1
+# x=0
+# while x<=10:
+#     print(x)
+#     x=x+1
+
+
+
+# to display the sum of the first n number
+
+# n=eval(input("enter the value: "))
+# sum=0
+# i=1
+# while i<=n:
+#     sum=sum+i
+#     i=i+1
+# print("the sum of the first ",n,"number is",sum)
 
     
+# write a program to  promt user to enter some name until entring name  "manoj"
 
+# name=""
+# while name !="manoj":
+#     name=input("Enter your name: ")
+# print("Thanks for conformation your name:",name)
 
