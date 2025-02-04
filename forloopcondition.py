@@ -45,6 +45,30 @@
 # c) display number from 10 to 1 in descending order 
 
 
+
+
+#slov a)
+
+# for a in range(5,0,-1):
+#     print(a)
+
+
+#slove b)
+# for a in range(10,0,-1):
+#     if a%2!=0:
+#         print(a)
+
+
+#slove c)
+# for a in range(40,100):
+#     if a%2==0:
+#         print(a)
+
+
+# for a in range(10,0,-1):
+#      print(a)
+
+
 # eg 4 
 #print the sum of the list 
 # list=eval(input("Enter the list: "))
@@ -90,3 +114,31 @@
 #     name=input("Enter your name: ")
 # print("Thanks for conformation your name:",name)
 
+
+
+#---------------------------patter matching --------------------------------------
+# 1)
+# n=int(input("Enter the value:"))
+# i=0
+# while i<=n:
+#     print(n*"*")
+#     i=i+1
+   
+   # 2)
+# n=eval(input("Enter the value:"))
+# for i in range(1,n+1):
+#     print(n*" *")
+
+
+
+# n=int(input("enter the value: "))
+# num=65
+# for i in range(1,n+1):
+#     for j in range(1,n+1):
+#         num+=1
+#         ch = chr(num)
+#         print(ch,end=" ") 
+#     print()      
+   
+   
+   
